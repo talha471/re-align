@@ -32,6 +32,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+.re_align_id_rsa
+.re_align_id_rsa.pub
 
 # Symbolication related
 app.*.symbols
